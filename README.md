@@ -15,19 +15,19 @@ The following **required** functionality is completed:
 * [ ] User's **list of items persisted** upon modification and and retrieved properly on app restart
 
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ]Allow users to edit tasks!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/rQ03Qq7.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Trouble with app crashing when implementing long click to remove item.
 
 ## License
 
